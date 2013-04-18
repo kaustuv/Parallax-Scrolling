@@ -8,7 +8,6 @@
  * 		   @richardshepherd   
  */
 
-// On your marks, get set...
 $(document).ready(function(){
 						
 	// Cache the Window object
